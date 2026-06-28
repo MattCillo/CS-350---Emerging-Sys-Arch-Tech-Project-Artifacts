@@ -1,3 +1,5 @@
+Name: Matthew Cillo
+
 # CS-350---Emerging-Sys-Arch-Tech-Project-Artifacts
 
 The two artifacts I chose for my portfolio are my thermostat Python code and my state machine diagram. I selected these because together they show both the practical and planning sides of my work in this course. The thermostat code demonstrates my ability to write software that interacts with hardware components, including the temperature sensor, LEDs, buttons, LCD display, and UART communication. It also shows that I can build the logic needed to make those parts work together in a way that is organized and useful.
