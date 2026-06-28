@@ -1,1 +1,5 @@
 # CS-350---Emerging-Sys-Arch-Tech-Project-Artifacts
+
+The two artifacts I chose for my portfolio are my thermostat Python code and my state machine diagram. I selected these because together they show both the practical and planning sides of my work in this course. The thermostat code demonstrates my ability to write software that interacts with hardware components, including the temperature sensor, LEDs, buttons, LCD display, and UART communication. It also shows that I can build the logic needed to make those parts work together in a way that is organized and useful.
+
+The state machine diagram is important because it shows how I planned the system before and during development. It helped me break the thermostat into clear states and understand how the system should respond when the user changes modes or adjusts the set point. I think this artifact reflects my ability to document my thinking, stay organized, and design a program in a way that is easier to follow and maintain. Together, these two artifacts represent not only what I built, but also how I approached the project in a careful and structured way.
